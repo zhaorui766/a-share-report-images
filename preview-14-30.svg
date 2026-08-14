@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1470" viewBox="0 0 1080 1470">
+<style>
+.t{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.muted{fill:#6b7b93}.ink{fill:#16243c}.blue{fill:#1967d2}.red{fill:#d83a49}.green{fill:#169c63}.white{fill:#fff}
+</style>
+<rect width="1080" height="1470" rx="42" fill="#f5f8fc"/>
+<rect x="42" y="42" width="996" height="146" rx="28" fill="#1967d2"/>
+<text x="86" y="106" class="t white" font-size="34" font-weight="700">A股 · 14:30 盘中日报</text>
+<text x="86" y="154" class="t white" font-size="25">示例排版 · 仅供手机阅读测试</text>
+<rect x="42" y="218" width="996" height="128" rx="26" fill="#fff"/>
+<text x="76" y="270" class="t blue" font-size="27" font-weight="700">盘中结论</text><text x="76" y="315" class="t ink" font-size="30" font-weight="600">市场震荡，关注尾盘资金承接</text>
+<text x="42" y="400" class="t blue" font-size="29" font-weight="700">14:30 指数</text>
+<rect x="42" y="426" width="480" height="146" rx="24" fill="#fff"/><rect x="558" y="426" width="480" height="146" rx="24" fill="#fff"/>
+<text x="74" y="476" class="t muted" font-size="25">上证指数</text><text x="74" y="534" class="t red" font-size="40" font-weight="700">+0.36%</text>
+<text x="590" y="476" class="t muted" font-size="25">深证成指</text><text x="590" y="534" class="t green" font-size="40" font-weight="700">-0.18%</text>
+<rect x="42" y="594" width="480" height="146" rx="24" fill="#fff"/><rect x="558" y="594" width="480" height="146" rx="24" fill="#fff"/>
+<text x="74" y="644" class="t muted" font-size="25">科创50</text><text x="74" y="702" class="t red" font-size="40" font-weight="700">+0.62%</text>
+<text x="590" y="644" class="t muted" font-size="25">创业板指</text><text x="590" y="702" class="t green" font-size="40" font-weight="700">-0.42%</text>
+<text x="42" y="804" class="t blue" font-size="29" font-weight="700">市场与情绪</text>
+<rect x="42" y="830" width="996" height="178" rx="26" fill="#fff"/>
+<text x="76" y="886" class="t muted" font-size="25">成交额  示例数据  ·  较昨日同期  示例变化</text>
+<text x="76" y="936" class="t muted" font-size="25">上午 示例  |  下午 示例  |  14:30 后  示例</text>
+<text x="76" y="982" class="t ink" font-size="27" font-weight="600">情绪：均衡  ·  ≥5% 示例  |  ≤-5% 示例</text>
+<text x="42" y="1072" class="t blue" font-size="29" font-weight="700">资金风格与板块</text>
+<rect x="42" y="1098" width="996" height="178" rx="26" fill="#fff"/>
+<text x="76" y="1152" class="t ink" font-size="28" font-weight="700">主导风格：示例资金方向</text>
+<text x="76" y="1202" class="t red" font-size="27" font-weight="700">领涨：示例板块 +0.0%</text><text x="484" y="1202" class="t muted" font-size="27">| 示例二 | 示例三</text>
+<text x="76" y="1252" class="t green" font-size="27" font-weight="700">领跌：示例板块 -0.0%</text><text x="484" y="1252" class="t muted" font-size="27">| 示例二 | 示例三</text>
+<text x="42" y="1340" class="t blue" font-size="29" font-weight="700">收盘前判断</text>
+<rect x="42" y="1366" width="996" height="62" rx="24" fill="#e9f1ff"/>
+<text x="76" y="1407" class="t ink" font-size="27" font-weight="600">示例条件化结论（不包含真实数据）</text>
+</svg>
